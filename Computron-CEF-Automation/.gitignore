@@ -1,0 +1,15 @@
+/allure-results
+/test-output
+/target
+/.idea
+.idea/vcs.xml
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/workspace.xml
+.idea/workspace.xml
+.idea/workspace.xml
+.idea/compiler.xml
+.idea/workspace.xml
+.idea/workspace.xml
+/.apt_generated/
+/.apt_generated_tests/
